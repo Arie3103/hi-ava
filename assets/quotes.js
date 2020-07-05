@@ -1,6 +1,6 @@
 // prettier-ignore
 export default [
-    { author: "avrill.v", quotes: "Whatever happens, keep breathing😀😄" },
+    { author: "avrill.v", quotes: "Whatever happens, keep breathing^_^" },
     { author: "antjedtta_", quotes: "Pam pam pararam ceklek jedar\nPararam ram parararam ram" },
     { author: "standinshd", quotes: "Hey! I wuv chuuuu! UwU" },
     { author: "standinshd", quotes: "I love you." },
