@@ -1,10 +1,10 @@
 export default {
-  nicknames: ["Kamu", "David", "Kau", "David", "David"],
+  nicknames: ["", "", "", "", ""],
   greetings: {
-    evening: "Good Evening",
-    afternoon: "Good Afternoon",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
+    evening: "Haii😃😃",
+    afternoon: "Haii😊😊",
+    day: "Haii😄😄",
+    morning: "Haii😄😄",
+    night: "Haii😊😊"
   }
 };
